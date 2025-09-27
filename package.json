@@ -1,0 +1,22 @@
+{
+  "name": "sabeth-nkem-website",
+  "version": "1.0.0",
+  "description": "Company profile website for Sabeth Nkem Nigeria Limited",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Build completed - static HTML site ready'",
+    "start": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "engineering",
+    "cement",
+    "construction",
+    "nigeria",
+    "company-profile"
+  ],
+  "author": "Sabeth Nkem Nigeria Limited",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {}
+}
